@@ -13,8 +13,8 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 EMAIL_HOST = "smtp.gmail.com"
-EMAIL_HOST_USER = "14103161.iubat@gmail.com"
-EMAIL_HOST_PASSWORD = "g=9.81ms-2"
+EMAIL_HOST_USER = "*************@***.***"  # your mail
+EMAIL_HOST_PASSWORD = "*******"  #Your password
 EMAIL_PORT = "587"
 EMAIL_USE_TLS = True
 
