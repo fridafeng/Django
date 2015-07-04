@@ -1,0 +1,12 @@
+.btn-primary{
+	background-image: linear-gradient(to bottom,#CAFF2E 0,#265a88 100%);
+}
+
+.navbar-inverse .navbar-brand {
+  color: #00FF17;
+ }
+
+ 
+.btn-default{
+ 	background-image: linear-gradient(to bottom,#081DF7 0,#e0e0e0 100%);
+ }
